@@ -200,6 +200,7 @@
 
 ### Adversary Emulation
 * [Cobalt Strike](https://www.cobaltstrike.com/)
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon)
 * [Red Team Automation - RTA](https://github.com/endgameinc/RTA)
 * [CALDERA](https://github.com/mitre/caldera)
 * [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
